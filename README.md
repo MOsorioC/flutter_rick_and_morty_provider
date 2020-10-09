@@ -10,10 +10,10 @@ This application uses the follow services:
 ### Home view
 
 
-![Demo](/screenshots/homeView.gif)
+![Demo](/screenshots/homeView.png)
 
 
-### Character View
+### Character View
 
 
-![Demo](/screenshots/homeView.gif)
+![Demo](/screenshots/character.png)
