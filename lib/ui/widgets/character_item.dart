@@ -11,7 +11,7 @@ class CharacterItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
-      color: Color.fromRGBO(60, 62, 68, 1),
+      color: Color.fromRGBO(60, 62, 68, 0.8),
       child: Column(
         children: <Widget>[
           ListTile(
